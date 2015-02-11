@@ -1,0 +1,13 @@
+State:  Running
+Themes:  
+Modules:  
+Name:  Default
+DataProvider: SqlServer
+DataConnectionString: Data Source=2d6951d7-fa90-46dd-9ad3-a43c004758ed.sqlserver.sequelizer.com;Initial Catalog=db2d6951d7fa9046dd9ad3a43c004758ed;User ID=iqwmqjtdvpkyddvy;Password=C4RQLYeCYdDRKUvdB4eXfrwuZWWAqAUTidNwiEKDGxMKYcEfpwDmcb3mEvXXcLnw
+DataTablePrefix:  null
+RequestUrlHost:  null
+RequestUrlPrefix:  null
+EncryptionAlgorithm:  AES
+EncryptionKey:  9A74E7ED76C117FC6993F7FF91263C89F3CCC3C2C57496DD5A2B161A7D4C3171
+HashAlgorithm:  HMACSHA256
+HashKey:  99FB38631C47E5DA43312AF04636E92BB123F99FA43F27DD4E72197B4675959964114AEB91CA3D8F54DA619325AD197E67CE2BF3AD0E68845BC16F16633BE7FC
